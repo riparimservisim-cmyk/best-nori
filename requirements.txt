@@ -1,0 +1,7 @@
+flask
+gunicorn
+werkzeug
+pillow
+pywebpush
+py-vapid
+cryptography
